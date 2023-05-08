@@ -1,1 +1,3 @@
 # AyurFoodie---The-Prakriti-Diet-Recommender-System
+
+AyurFoodie is a Prakriti diet recommender system that helps individuals determine the best diet for their body type based on the Ayurvedic concept of Prakriti. This system takes into account an individual's physical, mental, and emotional characteristics to recommend a personalized diet plan that is tailored to their unique needs. The Prakriti diet is based on the belief that each person's body is made up of a unique combination of the three doshas: Vata, Pitta, and Kapha. By understanding an individual's dosha composition, AyurFoodie can recommend foods and dietary habits that will help them maintain balance and good health.
